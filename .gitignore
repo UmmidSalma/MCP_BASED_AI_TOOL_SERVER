@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .env
 models/
+outputs/
+uploads/
+var/
+data/synthetic-fraud/
+images/*
+!images/README.txt

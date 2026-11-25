@@ -1,0 +1,9 @@
+# Optional and comparatively large: install only when model artifacts are available.
+numpy>=1.26,<2
+pandas>=2.2,<3
+scikit-learn>=1.5,<1.8
+xgboost>=2.0,<3
+shap>=0.46,<1
+torch>=2.2,<3
+transformers>=4.40,<5
+Pillow>=10,<12

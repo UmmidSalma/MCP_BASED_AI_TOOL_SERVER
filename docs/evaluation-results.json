@@ -1,0 +1,14 @@
+{
+  "latency": {
+    "tool": "ping",
+    "iterations": 50,
+    "mean_ms": 0.036,
+    "median_ms": 0.031,
+    "p95_ms": 0.053
+  },
+  "environment": {
+    "timestamp_utc": "2026-11-12T07:44:37.954008+00:00",
+    "python": "3.11.0rc2",
+    "platform": "Windows-10-10.0.26300-SP0"
+  }
+}

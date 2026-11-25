@@ -1,0 +1,2 @@
+# Optional SDK for the Claude + local Ultracam image chat.
+anthropic>=0.40,<1
